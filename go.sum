@@ -1,0 +1,6 @@
+github.com/mrjones/oauth v0.0.0-20140317145020-3f16dcc42f86 h1:DteTIzhxZ/SLVbj5gXLTIsrMAl2qsE4uad4KjF21Xkw=
+github.com/mrjones/oauth v0.0.0-20140317145020-3f16dcc42f86/go.mod h1:skjdDftzkFALcuGzYSklqYd8gvat6F1gZJ4YPVbkZpM=
+golang.org/x/net v0.0.0-20150424032922-ff8eb9a34a5c h1:8ROZVqVufL1uYKoaLjh5GoxmljYopdd8pL/dDj7qzXI=
+golang.org/x/net v0.0.0-20150424032922-ff8eb9a34a5c/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/oauth2 v0.0.0-20150117185133-95a9f97e5176 h1:28i37FyTddePK5k/9In8v+p421HQRJNJfzeXQAdKG24=
+golang.org/x/oauth2 v0.0.0-20150117185133-95a9f97e5176/go.mod h1:N/0e6XlmueqKjAGxoOufVs8QHGRruUQn6yWY3a++T0U=
